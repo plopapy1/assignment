@@ -1,0 +1,95 @@
+
+.hero{
+    width: 600px;
+    height: 400px;
+    /*background: linear-gradient(to right, rgb(153, 246, 228), rgb(217, 249, 157));*/
+    background-color: rgb(111, 129, 111);
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    border-radius: 10px;
+}
+
+.nav-bar{
+    height: 30px;
+    background-color: rgba(66, 66, 57, 0.719);
+    margin: 0px 10px;
+    
+   
+}
+
+li{
+    display: inline;
+    margin: 3px 20px 3px 20px;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.main-content{
+    border: 1px solid black;
+    width: 300px;
+    height: 260px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(235, 240, 243);
+}
+
+.rap{
+    border: 1px solid black;
+    height: 60px;
+    margin-bottom: 10px;
+    background-color: rgb(235, 240, 243);
+}
+
+p{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.side-bar{
+    border: 1px solid black;
+    position: relative;
+    left: 330px;
+    bottom: 101px;
+    margin-top: 30px;
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(235, 240, 243);
+
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: ; */
+}
+
+img{
+    height: 60px;
+    width:280px ;
+    background-repeat: no-repeat;
+    display: block;
+    
+}
+
+#foot{
+    text-align: center;
+}
+
+    
